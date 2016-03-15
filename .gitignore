@@ -5,3 +5,6 @@ vendor
 examples/testfile-small.txt
 examples/testfile.txt
 tests/.accessToken
+.idea
+*.p12
+auth.json
