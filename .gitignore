@@ -5,3 +5,6 @@ vendor
 examples/testfile-small.txt
 examples/testfile.txt
 tests/.apiKey
+auth.json
+.idea
+*.p12
